@@ -1,4 +1,4 @@
-# LifeHack-DriversLicense
+# XRperience_2024_Hackathon_Top2Percent
 
 # Using the app requires an Android mobile device that support AR and has an in-built camera
 
